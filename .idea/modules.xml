@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Attachments/Attachments.iml" filepath="$PROJECT_DIR$/Attachments/Attachments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmailService/EmailService.iml" filepath="$PROJECT_DIR$/EmailService/EmailService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FeignClients/FeignClients.iml" filepath="$PROJECT_DIR$/FeignClients/FeignClients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Music-comment/Music-comment.iml" filepath="$PROJECT_DIR$/Music-comment/Music-comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicService/MusicService.iml" filepath="$PROJECT_DIR$/MusicService/MusicService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ruxiddinov_Oloviddin_B7_Music_Project.iml" filepath="$PROJECT_DIR$/Ruxiddinov_Oloviddin_B7_Music_Project.iml" />
+    </modules>
+  </component>
+</project>

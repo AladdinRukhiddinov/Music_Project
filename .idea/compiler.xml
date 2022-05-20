@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="Music-comment" />
+        <module name="MusicService" />
+        <module name="EmailService" />
+        <module name="FeignClients" />
+        <module name="Attachments" />
+        <module name="ApiGateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ApiGateway" target="17" />
+      <module name="Attachments" target="17" />
+      <module name="EmailService" target="17" />
+      <module name="EurekaServer" target="17" />
+      <module name="FeignClients" target="17" />
+      <module name="Music-comment" target="17" />
+      <module name="MusicService" target="17" />
+      <module name="Ruxiddinov_Oloviddin_B7_Music_Project" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ApiGateway" options="-parameters" />
+      <module name="Attachments" options="-parameters" />
+      <module name="EmailService" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="FeignClients" options="-parameters" />
+      <module name="Music-comment" options="-parameters" />
+      <module name="MusicService" options="-parameters" />
+      <module name="Ruxiddinov_Oloviddin_B7_Music_Project" options="-parameters" />
+    </option>
+  </component>
+</project>

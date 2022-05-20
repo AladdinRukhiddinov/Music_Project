@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea2b04bc-b6cc-44dc-816b-09084669fa5f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="29QXojkTlq33SZnpeSJGqA3u2YL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EmailService/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MTHome" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="uz.pdp.musicservice.repository" />
+      <recent name="uz.pdp.musicservice.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Downloads\Ruxiddinov_Oloviddin_B7_Music_Project\EmailService\src\main\resources" />
+      <recent name="C:\Users\user\Downloads\Ruxiddinov_Oloviddin_B7_Music_Project\Attachments\src\main\java\uz\pdp\attachments" />
+      <recent name="C:\Users\user\Downloads\Ruxiddinov_Oloviddin_B7_Music_Project\Music-comment\src\main\java\uz\pdp\musiccomment" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uz.pdp.emailservice.service" />
+      <recent name="uz.pdp.emailservice" />
+      <recent name="uz.pdp.emailservice.dto" />
+      <recent name="uz.pdp.emailservice.controller" />
+      <recent name="uz.pdp.emailservice.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ApiGateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AttachmentsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Attachments" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.attachments.AttachmentsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EmailService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.emailservice.EmailServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignClientsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="FeignClients" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.feignclients.FeignClientsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicCommentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Music-comment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.musiccomment.MusicCommentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MusicService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.musicservice.MusicServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuxiddinovOloviddinB7MusicProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Ruxiddinov_Oloviddin_B7_Music_Project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.music_project.RuxiddinovOloviddinB7MusicProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea2b04bc-b6cc-44dc-816b-09084669fa5f" name="Changes" comment="" />
+      <created>1653046462199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653046462199</updated>
+      <workItem from="1653046463677" duration="14439000" />
+      <workItem from="1653061121357" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
